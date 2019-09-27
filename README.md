@@ -1,5 +1,7 @@
 # erpnet-permissions
 
+php artisan erpnet:permissions:install
+
 [Site do GitHub](https://github.com/lucianobapo/erpnet-permissions)
 
 [![Latest Stable Version](https://poser.pugx.org/ilhanet/erpnet-permissions/v/stable)](https://packagist.org/packages/ilhanet/erpnet-permissions) 
